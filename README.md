@@ -2,6 +2,17 @@
 
 > Compile SVG and EPS to Fonts (and CSS)
 
+# WARNING
+
+Prefer the [grunt-webfont](https://github.com/sapegin/grunt-webfont) plugin, more flexible.
+
+*This plugin is not yet published on NPM & maybe never will.*
+You can still install it with:
+
+```shell
+npm install git://github.com/MoOx/grunt-fontcustom.git --save-dev
+```
+
 
 ## Getting Started
 If you haven't used [grunt][] before, be sure to check out the [Getting Started][] guide, as it explains how to create a [gruntfile][Getting Started] as well as install and use grunt plugins. Once you're familiar with that process, install this plugin with this command:

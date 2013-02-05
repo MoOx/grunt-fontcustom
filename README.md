@@ -1,4 +1,4 @@
-# grunt-fontcustom [![Build Status](https://secure.travis-ci.org/MoOx/grunt-fontcustom.png?branch=master)](http://travis-ci.org/gruntjs/grunt-fontcustom)
+# grunt-fontcustom [![Build Status](https://secure.travis-ci.org/MoOx/grunt-fontcustom.png?branch=master)](http://travis-ci.org/MoOx/grunt-fontcustom)
 
 > Compile SVG and EPS to Fonts (and CSS)
 
